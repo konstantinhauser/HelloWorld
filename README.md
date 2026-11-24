@@ -1,32 +1,34 @@
-<a id="readme-top"></a>
 # HelloWorld
 Author: Konstantin Hauser <br>
 LBS Eibiswald | 2APC
 
-Nur eine Demo Anwendung...<br>
-Hier sollte die Anwendung erklärt werden...
+Eine Übung zur Vererbung in java
+
+## Demo
+
+![Screen Shot](test1.jpeg)
+
+## Vorausetztungen
+
+- Java version 8+
+- Eine IDE
 
 ## Installation
 
-```cmd
-
-
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. Die Repo mit ```git clone https://github.com/konstantinhauser/HelloWorld.git``` clonen
+1. Öffnen in einer IDE
 
 ## Verwendung
 Technologien im Einsatz:
 [![Java][java.com]][java-url]
 
-```php
-
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Kontakt
+
+Konstantin Hauser (Autor): hauser.konstantin@knapp.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
